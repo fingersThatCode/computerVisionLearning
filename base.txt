@@ -1,0 +1,14 @@
+#so the smallest unit of images is pixel. we can say that images are made of pixels like 300PPI(pixel per inch) and each pixel is having its own RGB value.
+#Similary Video is a collecion of multiple images at frames per second that means images are accelerating fast like a sport car. 
+#Computer Vision is like our memory after seeing a face we memorize it after seeing a an object our brain can easliy recognise it.
+#So computer vison is a interdiscplinary scientif field that deals how computer can gain high level of understanding from images and videos.
+#Example Self driving cars, Face recognition, Production monitoring for QC, object separator.
+
+In openCV we will use array to store images
+and numpy to work on these arrays.
+
+Gray scale images are single channel images. it depends on the pixel how ,uch its dark and bright.
+RGB(Red-Green-Blue)-3 Channel
+DPI - dots per inch
+In printing, DPI (dots per inch) refers to the output resolution of a printer or imagesetter, 
+and PPI (pixels per inch) refers to the input resolution of a photograph or image. DPI refers to the physical dot density of an image when it is reproduced as a real physical entity, for example printed onto paper. A digitally stored image has no inherent physical dimensions, measured in inches or centimetres. Some digital file formats record a DPI value, or more commonly a PPI (pixels per inch) value, which is to be used when printing the image. This number lets the printer or software know the intended size of the image, or in the case of scanned images, the size of the original scanned object. For example, a bitmap image may measure 1,000 × 1,000 pixels, a resolution of 1 megapixel. If it is labelled as 250 PPI, that is an instruction to the printer to print it at a size of 4 × 4 inches. Changing the PPI to 100 in an image editing program would tell the printer to print it at a size of 10 × 10 inches. However, changing the PPI value would not change the size of the image in pixels which would still be 1,000 × 1,000. An image may also be resampled to change the number of pixels and therefore the size or resolution of the image, but this is quite different from simply setting a new PPI for the file.
