@@ -1,8 +1,13 @@
 # computerVisionLearning
 
-Data is avaialable in many formats like Text, Images, Video etc given belwo is the list of common data we see in day to day life.
+**Data** is avaialable in many formats like Text, Images, Video etc given belwo is the list of common data we see in day to day life.
+and to process such type of data you need to know image and video processing.
+For handling such type of data we use image processing and to analyse it we use **ComputerVision**
 
-Data can be available in numerous formats, depending on the type of information being represented. Here are some common formats for different types of data:
+**Computer Vision** is a subset of **Artificail Intelligence** which can be trained on images for successful prediction.
+I will be using **OpenCV** for image processign and Computer Vision.
+
+**Data can be available in numerous formats, depending on the type of information being represented. Here are some common formats for different types of data:**
 
 **1. Textual Data Formats:**
 Text data is one of the most common and widely used formats. It includes documents, reports, emails, web pages, log files, and any other textual content.
